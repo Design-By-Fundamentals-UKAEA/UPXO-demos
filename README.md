@@ -66,7 +66,7 @@ cd UPXO-demos
 jupyter lab
 ```
 
-Open a notebook and run it. Some notebooks read files that sit next to them (an Excel dashboard or a data folder). JupyterLab runs a notebook from its own folder, so that works as long as you open the notebook inside the cloned repo. If you run notebooks from another tool, set its working directory to the notebook's folder.
+Open a notebook and run it. Some notebooks read files that sit next to them (for example a data folder). JupyterLab runs a notebook from its own folder, so that works as long as you open the notebook inside the cloned repo. If you run notebooks from another tool, set its working directory to the notebook's folder.
 
 ## Demos
 
